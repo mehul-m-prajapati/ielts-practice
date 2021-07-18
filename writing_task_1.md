@@ -13,3 +13,21 @@ Thank you for your attention to this important matter.
 Kind Regards,
 
 Mehul
+
+---
+**You are living in a city in a foreign country, and a friend from your home country is soon coming to visit you for several days. Write an email to your friend, asking him or her to bring some things from home which you need, saying why you need them, making arrangements to meet**
+
+Dear Mayank,
+
+I am so glad that you are coming to Montreal next week, as it seems ages since we last saw each other. I hope your family and girlfriend are all well. I actually have a favor to ask you, and I hope you don't mind. The fact it that I need a few things from my parents' house, and I would be so grateful if you could bring them along in your suitcase.
+
+The first thing is the book called psychology of money which I had at high school - don't worry, it's only a small book. I need this because I want to understand the different ideas of making money, and I can't get another copy here in any of the bookshops or on the Internet. The second thing is a packets of those biscuits from the bakery in my old street. I have told everyone here how delicious they are, and my new friends are very keen to try them.
+
+I do hope that is manageable for you, as it won't take up much space at all. In the meantime, I am very excited about seeing you again at the airport on Monday at midday. I will be in the arrivals hall, wearing my blue jacket.
+
+I can't wait to see you then.
+
+
+All the best,
+
+Mehul
