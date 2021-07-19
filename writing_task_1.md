@@ -12,7 +12,7 @@ Thank you for your attention to this important matter.
 
 Kind Regards,
 
-Mehul
+Mehul Prajapati
 
 ---
 **You are living in a city in a foreign country, and a friend from your home country is soon coming to visit you for several days. Write an email to your friend, asking him or her to bring some things from home which you need, saying why you need them, making arrangements to meet**
@@ -27,6 +27,44 @@ I do hope that is manageable for you, as it won't take up much space at all. In 
 
 I can't wait to see you then.
 
+
+All the best,
+
+Mehul
+
+---
+**You have received a bill from a mobile phone (or cell phone) company for international call charges relating to a time when you did not use your phone for international calls.
+Write a letter to the company, complaining about this giving your reasons asking for the bill to be changed**
+
+Dear Sir,
+
+I have been a satisfied customer for several years, but I am writing regarding the cell phone bill I received on 17th March 2020, which includes a total $900 for international call charges. In fact, these charges are completely unjustified, for the following reason.
+
+At no time have I used this phone to make international calls, either to my home country or to any other country. I used the phone purely for local calls and for calls to government departments in Canada, which are national calls. I have checked my call summary, there is no record of any international connections. As you see, there is no possible reason for me to be charged for international calls, and this is easily confirmed by my phone records.
+
+I therefore request that you withdraw these charges and change my bill accordingly. I also ask you to confirm to me in wrirting that this has been actioned, by sending a copy of the revised bill to me at this address.
+
+I look forward to receiving your confirmation that all is in order.
+
+Kind Regards,
+
+Mehul Prajapati
+
+---
+**A friend has told you that he or she feels lonely in their new city away from their family. Write to your friend, and Explain why people can feel this way.
+Give some ideas on how to solve the problem. Ask your friend to contact you and tell you if this works**
+
+Dear Meena,
+
+I am so sorry to hear that you are feeling rather isolated in your new home, especially as you have always been such an outgoing person.
+
+I think that people tend to feel lonely because they don't have enough opportunities to meet new friends. This leads to them staying at home more, so that the situation becomes even worse. 
+
+If I were you, I would join some of the clubs and societies which exist at your college, for example the concordia dancing club - because I know how much you love dancing. This means you will meet people with similar interests and abilities, and you can share the enjoyment of ballroom. I would also try to use the Internet more, to meet people safely online and see if they are local to you in your new city. You have to be very careful, of course, but if you use Internet sites as they are intended I'm sure you will find some new friends - not necessarily of the romantic type !
+
+Please do keep in touch, and let me know how you get on with these suggestions. If you let me know how this goes, I can try to think of other ways to help you in your situation at the moment.
+
+Take care and do stay in touch,
 
 All the best,
 
