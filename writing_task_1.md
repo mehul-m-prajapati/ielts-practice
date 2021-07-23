@@ -69,3 +69,72 @@ Take care and do stay in touch,
 All the best,
 
 Mehul
+
+---
+**A friend who is planning to visit you has asked you to describe the most interesting and enjoyable things to do in the community where you currently live. Write an email to your friend, telling them about these things. In your email, Say what these things are Say why they are interesting/enjoyable. Suggest what you can do together**
+
+Dear Nic,
+
+Thanks for your email last week, and I am so happy that you are arriving next weekend.
+
+You asked about the interesting things to do around here. Well, firstly, we have downtown area, which has many old cafes and bars, and some sights such as the statues and the colonial houses. Apart from that, there is the park, which has a theatre, more eating places, and an outdoor music venue. All in all, these places offer a lot of variety, with options for dining, sightseeing and good quality live entertainment, and all within an easy walk of the central area where I live.
+
+Here is an idea. When you get here, let's have an early night so that you get over the jet lag, and then go to the downtown area in the morning. We can have a traditional breakfast at one of the old cafes, and see some of the sights. Then we can see a show at the theatre, have dinner in park if it's sunny, and finally listen to the music in the outdoor arena. I think we might need another early night after such a long day !
+
+Please get in touch before the weekend just to let me know if that sounds ok, and also your flight number.
+
+
+All the best,
+
+Mehul
+
+---
+**You wish to apply for a new college course, but you are unsure about the details of cost, duration and subjects posted on the college website. Write an email to the relevant person in admissions at the college, asking them to clarify these points for you. In this email, Say what your interest is, Explain why the website is unclear, Request the information that you need**
+
+Dear Mr Smith,
+
+I am intereted in the photography course this year, and I have seen your name on the college website as the contact for admission queries. I have several questions for you, and I hope you can help.
+
+Firstly, regarding the cost of the course, is the fee of $99 per month or for the whole year course? Is it possible to pay in monthly instalments, or is the fee paid in full up front? The website says that 'other payment methods are possible,' but there is no explanation.
+
+Secondly, can you tell me what are the exact dates of this course? Your website says 'Summer to Autumn,' but I can't see any specific dates relating to this. I would be grateful for the precise dates, including when I need to pay for the course and buy the books and so on.
+
+Finally, I'd appreciate some information about the course content itself, including details of the equipment to be used and the wording of the certificate I will receive at the end. The website says that I should contact you for this.
+
+Thank you for your help, and I look forward to receiving the information requested.
+
+Kind Regards,
+
+Mehul Prajapati
+
+---
+**You recently took a plane to a holiday in a foreign city, and on arrival you found that your luggage was lost. You did not receive your luggage until the last day of your holiday. Write to the airline, complaining about this situation saying why it caused you problems, seeking suitable compensation**
+
+Dear Mrs Smith,
+
+As you are the head of Customer Services, I am writing regarding the loss of my baggage at Istanbul airport on April 3rd 2020. My baggage consisted of two suitcases, both being clearly labelled in the accepted way, and both being correctly locked.
+
+On arrival at Istanbul, I found that both suitcases were listed as 'missing' and the airline staff could not give me any information about their location. This caused me substantial inconvenience, as the suitcases contained my clothing, toiletries and books, and I was obliged to buy all these items from local shops at a very high price. Even when I finally received the suitcases, I found that they were opened, and many items were missing, including clothes and personal effects. This meant that I had to replace these items at my own cost when I returned home.
+
+I am requesting, therefore, that you kindly reimburse me the cost of $495 for all these items, and I have attached all relevant receipts. As you see, this sum does not include compensation for my inconvenience and wasted time, which I am prepared to forgo if you settle the charge promptly.
+
+I look forward to receiving your confirmation of this payment. 
+
+Kind regards,
+
+Mehul Prajapati
+
+---
+**You are studying at a college which has very limited sports and leisure facilities for students. Write a letter to the principal. In your letter, outline the situation propose ways to improve this situation request a meeting to discuss this**
+
+Dear Ms Smith,
+
+I thought you might be interested in some thoughts about the amenities for sports and other free time pursuits here at the college. Although we have a table tennis room, there are no other facilities for students, and this seems a great shame as so many of us would like to socialise after study hours.
+
+If I may suggest some improvements, I think we could adapt classroom 12 (which is rarely used) as a games room, perhaps with Wi-Fi and electical charging points. I also wonder if we could agree the use of the nearby park on certain afternoons, for team sports, yoga and running. There are quite straightforward steps which would immediately give the student body far greater scope for the leisure, with all the benefits this would bring us.
+
+I would greatly appreciate the opportunity to discuss this proposal with you in person, and I hope it will be acceptable if I contact your office assistant to arrange a convenient time.
+
+Kind Regards,
+
+Mehul Prajapati
