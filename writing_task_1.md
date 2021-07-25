@@ -138,3 +138,21 @@ I would greatly appreciate the opportunity to discuss this proposal with you in 
 Kind Regards,
 
 Mehul Prajapati
+
+---
+**You recently bought an expensive electronic product from a store, and found that the product does not work properly. Write a letter to the store manager. In your letter,
+Complain about the problem, Propose action for the store to take, Request confirmation that this is agreed**
+
+Dear Mr Smith,
+
+I am writing this letter to complain about LCD flickering issue of a laptop that I purchased last week from your store. As I am a software engineer, I need a laptop for my daily work and I hope you will understand my situation.
+
+I purchased a new Dell laptop on 25th Jan 2021 from your store and after that, I was very happy to use this device for my job-related work. But, after a week, I observed that the laptop screen flickers randomly when I am working. This is quite annoying because when I am in the middle of any important task, this issue creates a huge distraction from my task.
+As this laptop has 1 year warranty period, I want this issue to be fixed as early as possible. I can come tomorrow to give you my laptop and I request you to replace this LCD with a new one. Meanwhile, can you give me a spare laptop until this problem gets resolved? I have attached my laptop bill and warranty card. 
+
+Please do send me confirmation that you will repair my laptop on an early basis and notify me once it is fixed.
+
+
+Kind Regards,
+
+Mehul Prajapati
