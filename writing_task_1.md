@@ -143,6 +143,7 @@ Mehul Prajapati
 **You recently bought an expensive electronic product from a store, and found that the product does not work properly. Write a letter to the store manager. In your letter,
 Complain about the problem, Propose action for the store to take, Request confirmation that this is agreed**
 
+### My answer
 Dear Mr Smith,
 
 I am writing this letter to complain about LCD flickering issue of a laptop that I purchased last week from your store. As I am a software engineer, I need a laptop for my daily work and I hope you will understand my situation.
@@ -150,9 +151,48 @@ I am writing this letter to complain about LCD flickering issue of a laptop that
 I purchased a new Dell laptop on 25th Jan 2021 from your store and after that, I was very happy to use this device for my job-related work. But, after a week, I observed that the laptop screen flickers randomly when I am working. This is quite annoying because when I am in the middle of any important task, this issue creates a huge distraction from my task.
 As this laptop has 1 year warranty period, I want this issue to be fixed as early as possible. I can come tomorrow to give you my laptop and I request you to replace this LCD with a new one. Meanwhile, can you give me a spare laptop until this problem gets resolved? I have attached my laptop bill and warranty card. 
 
-Please do send me confirmation that you will repair my laptop on an early basis and notify me once it is fixed.
+I would appreciate your reply with a confirmation as I have requested.
 
 
 Kind Regards,
 
 Mehul Prajapati
+
+### Sample answer
+
+Dear Mr Smith,
+
+I believe you are the customer services manager of City Electronics in Cambridge, and so I am writing to complain about a digital camera I bought from you on 12th March 2015.
+
+Although I have followed all the directions in the manual, I find that the camera does not focus or zoom properly, meaning that is not fit for purpose. I have emailed and phoned your store several times to complain, but nobody has taken ownership of the problem so far.
+
+I therefore ask you to issue an immediate refund of the price (my receipt is attached) onto the credit card that I paid with. I am also requesting that you send a courier to collect the camera from my home address, as I am reluctant to use regular mail to return it to you in case of further damage.
+
+Would you kindly reply in writing by return, confirming that these steps will be taken and that the refund and collection are planned to go ahead, with the anticipated dates.
+
+I have been a loyal customer for the past 3 years, and I am confident that you will take all steps to keep my custom.
+
+
+Kind Regards,
+
+Mehul Prajapati
+
+---
+**You are currently trying to improve your knowledge of a language which is not your original language. You have a friend who speaks this new language perfectly. Write to your friend, Explaining why you want to learn this new language, Asking him/her for suggestions on how to learn more quickly, Proposing that you meet your friend to talk about these steps**
+
+Dear Peter,
+
+I thought it was time to get in touch, especially as I remember you're a fluent speaker of French. I might have mentioned this before, but I'm working for a French company now, and so I need to speak quite a lot of French when I have meetings with the staff.
+
+I wonder if you could give me a few tips on how to speed up my French learning? Do you think I should have lessons, or are there any self-study books which you can recommend ? Sometimes I think about doing a crash course in French school, but I think this might be too intensive, and I'd be interested to hear your view on that too.
+
+Maybe, if you're going to be in the area in the next few weeks, we could get together and I could pick your brains about this subject. There is actually a very well-known French restaurant in my street, so dinner would be my pleasure, and the surroundings would be perfect !
+
+Let me know what you think, and I hope to see you at some point soon.
+
+All the best,
+
+Mehul
+
+---
+
