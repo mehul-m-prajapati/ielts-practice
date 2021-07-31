@@ -28,3 +28,46 @@ Kind Regards,
 
 Mehul Prajapati
 ```
+
+----
+### Task 2
+- Background statement (paraphrase the topic) + Thesis statement (your opinion)
+```
+e.g. The most effective method to developing and improving health is considered to be daily exercise. In my opinion, I agree that exercise is the key to health. However, I also believe that diet is important.
+```
+- Paragraph 1 (1st opinion / agree / advantages)
+- Paragraph 2 (2nd opinion / disagree / dis-advantages)
+- Conclusion (In conclusion / To conclude / To sum up, summarise main points)
+
+#### Useful expressions
+- It is commonly believed that
+- Many people believe that 
+- Some people think that
+- It is considered by many that 
+
+#### Complex Sentences
+- Building wider roads can solve traffic congestion because it allows traffic to move more easily.
+- Building wider roads can solve traffic congestion, which is a serious problem in most major cities during rush hour, because it allows traffic to move more easily.
+
+#### Sample topic
+#### Education
+**Single gender schools vs Mixed schools**
+1. Single gender
+- Girls can not be easily intimidated by boys
+- Girls can develop and progress quicker
+- Girls learn faster than boys
+- Have an appropriate speed of learning
+- Less opportunity to develop early relationships
+- Less discipline issues
+- Lessons adapted to learner needs
+2. Mixed school
+- Competition between genders
+- Students can be more driven to succeed
+- Develop team working skills with opposite gender (mirrors real world)
+- Communication and understanding between genders
+- Boys and girls have different perspectives
+- Learn and benefit from each other
+
+#### Give examples
+- Fast food has a high content of fat and sugar which can lead to serious health issues, *like* obesity and cardiac disease, *when* eaten in quantity.
+
