@@ -69,5 +69,6 @@ e.g. The most effective method to developing and improving health is considered 
 - Learn and benefit from each other
 
 #### Give examples
-- Fast food has a high content of fat and sugar which can lead to serious health issues, *like* obesity and cardiac disease, *when* eaten in quantity.
-
+- Fast food has a high content of fat and sugar which can lead to serious health issues, *such as* obesity and cardiac disease, *when* eaten in quantity.
+- Obesity and cardiac disease are typical examples of the health issues that can be faced by people who regularly consume food with a high fat and sugar content.
+- An increasing number of people are eating unhealthy food regardless of the health warnings. For example / For instance / To give a clear example / To illustreate, about 70% of people working in UK resort to buying ready made meals for convenience rather than doing home cooking.
