@@ -15,6 +15,8 @@ This is certainly a natural and lasting way to improve public health.
 
 **In conclusion**, to deal with an increasing population of unfit, overweight people, changing the lifestyle of the coming generation by introducing sport in schools is the easiest and most effective method to use.
 
+---
+
 #### The development of tourism contributed to English becoming the most prominent language in the world. Some people think that this will lead to English becoming the only language to be spoken globally. What are the advantages and disadvantages to having one language in the world?
 
 **It is thought by some people that English**, which is now the most widely spoken language in the world, may one day predominate over all other languages and result in their
@@ -29,4 +31,19 @@ the flow of information and ideas. **Another reason** that one language would be
 In conclusion, while there are plus points to having one global language, too much would be lost as a result. Maintaining local languages and cultures should be prioritised 
 to ensure a rich world heritage for future genrations.
 
+---
 
+#### Many offenders commit more crimes after serving their first punishment. Why this happens and what measures can be taken to tackle the problem?
+A large number of criminals who serve their first prison sentence, leave prison only to reoffend. This is mainly because of the lack of rehabilitation and difficulty finding regular employment once released. There are a number of solutions which should be implemented to deal with criminals who reoffend.
+
+**Firstly**, the reason for most fist-time offenders committing crimes again, once they have been released from prison, is due to lack of rehabilitation whilst in prison. 
+**In other words**, offenders are not given a chance to retrain and learn new skills for their future or develop deeper understanding of correct moral behaviour and instead
+mix with other criminals, which only strengthens their criminal intentions.
+**Secondly**, repeat offending is also owing to the difficulty in finding employment after being released. **As a result**, many of them struggle financially which leads
+them back to crime, regardless of the consequences. 
+
+Tnere are two effective solutions to the problem of repeat offenders. One way to tackle this is to ensure that all criminals entering prison are given the chance to retrain 
+with useful skills which will hopefully ensure them a job after they have served their sentence. By doing this, it will help them to reintegrate back into society and give them
+some means of supporting themselves financially. **Another method of** dealing with criminals who reoffend is to have more supervision and checks in place when they are back in society. This solution would hopefully prevent them from taking any chances and deter them from reoffending because they are being so closely watched.
+
+In conclusion, having training in prison and also close observation when first time offenders are released are effective in dealing with the issue. If governments implemented these solutions, crime figures would soon drop. 
