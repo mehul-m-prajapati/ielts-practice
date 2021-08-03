@@ -47,3 +47,45 @@ with useful skills which will hopefully ensure them a job after they have served
 some means of supporting themselves financially. **Another method of** dealing with criminals who reoffend is to have more supervision and checks in place when they are back in society. This solution would hopefully prevent them from taking any chances and deter them from reoffending because they are being so closely watched.
 
 In conclusion, having training in prison and also close observation when first time offenders are released are effective in dealing with the issue. If governments implemented these solutions, crime figures would soon drop. 
+
+---
+
+#### Some people think that money is one of the most essential factors in promoting happiness. Do you think people can be happy without much money? What factors contribute towards happiness?
+Money is considered by many people to be one of the most important contributing factors towards happiness. **In my opinion**, it is possible for people to be happy even if they
+have little money and other aspects of life play a more vital role in creating happiness.
+
+Although having money brings happiness to a lot of people, it does not necessarily follow that people without money are, therefore, unhappy.
+**Take for example** the comparison between developing and developed countries, most Westerners would agree that people in developing countries are happier, enjoy stronger family connections and take more pleasure in simplicities of life to a greater extent than those in developed countries.
+
+One way that people can gain happiness is through their work. **For instance**, a doctor doing volunteer work in underdeveloped countries may have very little money but the reward of helping people and doing the job they are good at, brings happiness in itself. **In other words**, happiness can be found by using skills that people are trained
+for and though job satisfaction.
+
+**Finally**, another factor influencing happiness is having supportive and loving people in one's life. While money may bring opportunities to enjoy pleasures, few people
+would enjoy them on their own. Being surrounded by a loving and caring family is considered by most people to be more valuable than any amount of money.
+
+**In conclusion**, money is not essential for happiness, which can be found through job satisfaction as well as family. If more people strived in life towards true happiness
+rather than money, the world would be a better place.
+
+---
+
+#### Many people believe that social networking sites (such as Facebook) have had a huge negative impact on both individuals and society. To what extent do you agree?
+
+Social networking sites, for instance Facebook, are thought by some to have had a detrimental effect on individual people as well as society and local communities. 
+**However**, while I believe that such sites are mainly beneficial to the individual, I agree that they have had a damaging effect on local communities.
+
+With regards to individuals, the impact that online social media has had on each individual person has clear advantages. **Firstly**, people from different countries are 
+brought together through sites as Facebook whereas before the development of technology and social networking sites, people rarely had the chance to meet or communicate
+with anyone outside of their immediate circle or community. **Secondly**, Facebook also has social groups which offer individuals a chance to meet and participate 
+in discussions with people who share common interests.
+
+**On the other hand**, the effect that Facebook and other social networking sites have had on societies and local communities can only be seen as negative. Rather than
+individual person taking part in their local community, they are instead choosing to take more interest in people online. Consequently, the people within local communities
+are no longer forming close or supportive relationships. **Furthermore**, society as a whole is becoming increasingly disjointed and fragmented as people spend more time
+online with people they have never met face to face and who they are unlikely to ever meet in the future.
+
+**To conclude**, although social networking sites have brought individuals closer together, they have not had the same effect on society or local communities.
+Local communities should do more to try and involve local people in local activities in order to promote the future of community life.
+
+---
+
+
