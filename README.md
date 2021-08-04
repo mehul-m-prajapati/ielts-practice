@@ -38,6 +38,15 @@ Mehul Prajapati
 **Use more of this** - I believe / I think / In my opinion
 
 2. Discussion essay - Discuss both sides / Discuss both sides and give your opinion
+
+#### Useful expressions
+- On the one hand / On the other hand
+- Many argue that
+- It is commonly believed that
+- Many people believe that 
+- Some people think that
+- It is considered by many that 
+
 3. Advantages / Disadvantages essay
 4. Solution essay - what problem does this cause ? / what are possible solutions ?
 5. Direct questions essay   
@@ -62,13 +71,6 @@ e.g. The most effective method to developing and improving health is considered 
 - Reasons and Causes - Because / Due to / Owing to / Sincs / As
 - **Giving your opinion** - I believe / I think / In my opinion / I admit / In my view / I agree / I disagree
 - **Concluding** - In conclusion / To conclude / To sum up
-
-
-#### Useful expressions
-- It is commonly believed that
-- Many people believe that 
-- Some people think that
-- It is considered by many that 
 
 #### Complex Sentences
 - Building wider roads can solve traffic congestion because it allows traffic to move more easily.
