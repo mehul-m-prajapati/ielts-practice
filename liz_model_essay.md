@@ -88,4 +88,18 @@ Local communities should do more to try and involve local people in local activi
 
 ---
 
+#### Completing university education is thought by some to be the best way to get a good job. On the other hand, other people think that getting experience and developing skills is more important. Discuss both sides.
+
+It is considered by some that being a univeristy graduate is the key to securing a good job, while there are others who think that it is better to have experience and soft skills. **In my opinion**, I believe that having university education is essential for academic jobs, while soft skills and experience are more useful in business.
+
+**On the one hand**, many think that it is easier for most people to find a good job if they are university graduates with a good degree. **In other words**, having tertiary education puts people one step ahead of others who do not and this can be a deciding factor in getting a good job. The competition to get in to universities and increasing number of graduates show just how significant this level of education is for people's future work opportunities.
+
+**On the other hand**, having work experience and soft skills, such as leadership skills and other interpersonal skills, can throw the balance in favour of the applicant, according to some. For many positions there are an overwhelming number of applicants and, therefore, it is often thought that having relevant experience in that line of work
+or having acquired useful soft skills that can be valuable to a company, can put one ahead of the game when applying for a position.
+
+**Finally**, in my opinion, whether needing high level education or skills and experience, depends on the position being applied for. Take for example law, medicine or teaching, it is impossible to be considered for a position without required educational background. **In contrast**, in business, it would be more important for a candidate to have soft skills and experience in that line of business so they can step into a position without further training and be of immediate benefit to the company.
+
+**In conclusion**, getting a good job requires a relevant background either in experience or education depending on the type of work and field. People should make sure they attain the necessary skills or degrees before applying for a job in order to be sure of success.
+
+--- 
 
