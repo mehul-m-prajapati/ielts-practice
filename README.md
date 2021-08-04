@@ -31,13 +31,38 @@ Mehul Prajapati
 
 ----
 ### Task 2
+
+#### Types of essays
+1. Opinion essay - To what extent do you agree ? / do you agree ? / do you agree or disagree ? / what is your opinion ? / what do you think ? / what is your view ? / Do the Advantages outweigh Disadvantages ? / Are there more benefits or more drawbacks ? / Is this positive or negative ? / Do you think this is a good thing ?
+
+**Use more of this** - I believe / I think / In my opinion
+
+2. Discussion essay - Discuss both sides / Discuss both sides and give your opinion
+3. Advantages / Disadvantages essay
+4. Solution essay - what problem does this cause ? / what are possible solutions ?
+5. Direct questions essay   
+
+
+#### Essay structure
 - Background statement (paraphrase the topic) + Thesis statement (your opinion)
 ```
 e.g. The most effective method to developing and improving health is considered to be daily exercise. In my opinion, I agree that exercise is the key to health. However, I also believe that diet is important.
 ```
 - Paragraph 1 (1st opinion / agree / advantages)
 - Paragraph 2 (2nd opinion / disagree / dis-advantages)
-- Conclusion (In conclusion / To conclude / To sum up, summarise main points)
+- Conclusion (In conclusion / To conclude / To sum up, summarise main 1-2 points)
+
+#### Linking words
+- Listing - Firstly / Secondly / Thirdly / Lastly / Finally
+- Adding information - In addition / Furthermore / Moreover / Also / As well as / Additinally 
+- Giving examples - For example / For instance / Such as / Namely / To illustrate / In other words
+- Results and Consequences - As a result / Consequently / Therefore / Thus / Hence / So
+- Highlighting and Stressing - Particularly / Specifically / Especially / Obviously / Of course / Clearly 
+- Concessions and Contrasts - However / Nevertheless / Even though / Although / But / Despite / On the other hand / Alternatively
+- Reasons and Causes - Because / Due to / Owing to / Sincs / As
+- **Giving your opinion** - I believe / I think / In my opinion / I admit / In my view / I agree / I disagree
+- **Concluding** - In conclusion / To conclude / To sum up
+
 
 #### Useful expressions
 - It is commonly believed that
