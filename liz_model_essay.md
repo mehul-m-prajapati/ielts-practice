@@ -102,4 +102,14 @@ or having acquired useful soft skills that can be valuable to a company, can put
 **In conclusion**, getting a good job requires a relevant background either in experience or education depending on the type of work and field. People should make sure they attain the necessary skills or degrees before applying for a job in order to be sure of success.
 
 --- 
+#### Art is considered an important part of a society as well as an expression of its culture. Do you think it is important for children to be taught art? Do you think children should be encouraged to focus on art rather than other subjects ?
 
+It is commonly believed that art plays a fundamental role in society as artists are able to express their thoughts and their culture in their work. In my opinion, children should definitely learn art because they can develop creativity and learn to express themselves in their art work but it should not be taught to the detriment of other subjects.
+
+**Firstly**, art is an essential subject which children, especially young children, should learn in order to help promote their creativity and imagination. Without the development of imagination and creative thinking, children will struggle to grow into dynamic, individual thinkers when they reach adulthood. **Furthermore**, some children are particularly gifted in their creative abilities and studying art can help them nurture their talents.
+
+Another important advantage for children when practicing art is that it provides a medium through which they can express their emotions and feelings. **In other words**, young children do not have the linguistic capabilities to put their ideas into language and thus communicate directly. Therefore, by using art, they are able to convey meaning through pictures and symbols. **For this reason**, many child psychologists often study the art work of children to gain an insight into what they think and feel.
+
+**Finally**, however, regardless of how useful the study of art is for children, this should not result in more focus being placed on art rather than other subjects. Children need to have a balance of all subjects so as to facilitate a healthy development both mentally and physically. Thus, ensuring that there is a healthy balance of art, sciences, languages and physical education in the school syllabus is essential.
+
+**In conclusion**, while art cetainly helps a child develop creativity as well as express their thoughts, it should be taught equally alongside all other subjects. A school curriculum should offer a balance of subjects.
