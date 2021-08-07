@@ -30,3 +30,15 @@ The question of which skills to prioritise for a child's early education is impo
 
 **In conlusion**, I would not wish to underestimate the potential benefits of learning to play music for a minority of children, and it should certainly be available as an option.
 **However**, if we think of all children in a given community, literacy appears to be a far stronger pathway to progress and independence.
+
+---
+#### Now a days, more people are choosing to socialise online rather than face to face. Is this a positive or negative development ?
+An increasing number of people meet and talk to their friends online instead of in person. **In my opinion**, this is a negative development which can lead to isolation, potentially harmful situations and also problems later on in life.
+
+One serious problem that can arise from people socialising online is that it can lead to isolation. Before the internet, people would frequently go out to meet friends, for example in cafes, bars or restaurants, whereas now people prefer to stay at home alone, chatting online. **As a result**, people are starting to spend the majority of their time alone at home in their room without meeting others. Isolation of this kind is not healthy and can sometimes lead to depression and other issues. 
+
+Another issue is that meeting people online can be risky. **In other words**, people can assume fake identities online as well as hide their true characteristics. This is particulary concerning for teenagers who are impressionable and can easily be led into dangerous situations. **Furthermore**, as this interaction is online, parents have no way of monitoring it and protecting their children.
+
+**Finally**, socialising online can end in difficulties years later as conversations and shared photos that had been forgotten reappear. This situation is currently critical for many people, again especially for teenagers who do not think carefully before posting online. That is to say, information which is put online can remain there forever and while people may share intimate communications with close friends, these words can then resurface later on leading to much embarrassment.
+
+**In conclusion**, although it has become more popular for people to socialise through the internet, it has brought about too many problems for this to be considered a positive trend.
