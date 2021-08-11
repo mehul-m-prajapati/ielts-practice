@@ -8,6 +8,15 @@ In formal letters (letters to people you don’t know, or people in authority) y
 #### Formal endings (the ‘goodbye’ part)
 In a formal letter, try to finish your letter with two things.
 
+- First, a ‘call to action’ sentence which tells the reader politely what you want them to do.
+The easiest way to do this is to write 
+- ‘I look forward to + ing or + noun.’ For example:
+1. ‘I look forward to receiving your confirmation/to receiving a refund/to learning of your proposal.’
+Or with a noun instead of ‘+ ing’:
+2. ‘I look forward to your confirmation/to a refund/to your proposal.’
+- Try to use the ‘+ ing’ form if possible, because it will impress the examiner more.
+
+
 1. **‘I would appreciate your reply with a confirmation/a refund/ a proposal as I have requested.’**
 2. ‘Please respond as soon as possible, outlining your confirmation/your refund/ your proposal in this
 matter.’
